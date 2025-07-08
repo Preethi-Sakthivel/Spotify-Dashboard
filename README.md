@@ -50,6 +50,10 @@ Scope & Goals
    2. Optimized playlist strategies, driving 15% higher user engagement.
    3. Supported data-driven decisions on release timing and marketing campaigns,enhancing artist visibility and platform revenue.
 
+Demos:
+
+[Dashboard Preview].()
+
 
 
 
