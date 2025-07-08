@@ -35,7 +35,9 @@ Business Problem:
 Scope & Goals
 
    • Analyze over 100,000 Spotify streaming records sourced from multiple data sources, including timestamps, platforms, user actions (e.g., shuffle, skip), and track metadata.
+   
    • Integrate and model streaming data using Power BI, DAX, and custom date tables to support comprehensive trend analysis across albums, artists, and tracks.
+   
    • Develop interactive dashboards to empower stakeholders with self-service analytics, enabling deeper insights into user engagement patterns, device usage, and platform-specific behaviour.
 
 Outcomes & Impact
