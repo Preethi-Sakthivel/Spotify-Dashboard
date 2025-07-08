@@ -2,11 +2,11 @@
 
 🎧 Spotify Analytics: Spotify users and streaming platforms Analysis
 
-      A dynamic, interactive data visualization tool build to explore spotify history data - This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
+A dynamic, interactive data visualization tool build to explore spotify history data - This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
 
 🔍 Purpose:
 
-      Analyzed Spotify streaming data to uncover user listening behaviors, optimize playlist curation, and enhance artist promotion strategies through data-driven insights.Advanced DAX calculations and dynamic slicers enhanced data interactivity, enabling condi ional formatting and dynamic quadrant visuals.
+Analyzed Spotify streaming data to uncover user listening behaviors, optimize playlist curation, and enhance artist promotion strategies through data-driven insights.Advanced DAX calculations and dynamic slicers enhanced data interactivity, enabling condi ional formatting and dynamic quadrant visuals.
 
 📊 Key Contributions:
 
@@ -34,7 +34,7 @@
 
 Business Problem:
 
-    Designed to help Spotify’s music streaming division understand user listening behaviors across albums, artists, and tracks. The project aimed to solve the business problem of identifying patterns in user engagement, optimizing playlist strategies, and enhancing artist promotion through data-driven insights.
+Designed to help Spotify’s music streaming division understand user listening behaviors across albums, artists, and tracks. The project aimed to solve the business problem of identifying patterns in user engagement, optimizing playlist strategies, and enhancing artist promotion through data-driven insights.
 
 Scope & Goals
 
