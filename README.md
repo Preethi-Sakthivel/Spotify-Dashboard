@@ -7,16 +7,24 @@
 
 📊 Key Contributions:
     •  Overview Dashboard: Visualized album, artist, and track performance, including year-over-year trends and top 5 performers, identifying a 20% annual growth opportunity.
+    
     •  Listening Patterns Dashboard: Used heat maps and quadrant analysis to identify peak listening hours and highlight top-performing tracks, driving a 15% increase in user engagement.
+    
     •  Detailed Grid View: Enabled drill-through exploration of streaming data with exportable CSV reports for stakeholder analysis.
+    
     •  Developed advanced DAX calculations and dynamic slicers to enable conditional formatting, numeric range filters, and interactive visualizations supporting granular insights.
+    
     •  Integrated platform-specific filters (desktop, mobile, web, smart speaker) and skip/shuffle indicators, enabling music teams to tailor marketing and optimize cross-platform strategies.
+    
     •  Conducted robust data modeling, including calculated columns (e.g., day name, weekday/weekend flags) and date hierarchies, ensuring accurate time-based trend analysis.
 
 ⚙️ Tools & Technologies:
     •	Power BI (Data Modeling, DAX, Drill-Through, Heat Maps, Quadrant Analysis)
+    
     •	Microsoft Excel (Data Cleaning and Preprocessing)
+    
     •	Spotify Data Integration (timestamps, metadata, user actions)
+    
     •	CSV Export Functionality
 
 Business Problem:
