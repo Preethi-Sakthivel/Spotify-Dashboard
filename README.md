@@ -52,7 +52,7 @@ Scope & Goals
 
 Demos:
 
-[Dashboard Preview].()
+[Dashboard Preview].(https://github.com/Preethi-Sakthivel/Spotify-Dashboard/blob/main/spotify%20cover%20gif.gif)
 
 
 
