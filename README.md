@@ -1,11 +1,15 @@
 # Spotify-Dashboard
-🎧 Spotify Analytics: Spotify users and streaming platforms Analysis 
+
+🎧 Spotify Analytics: Spotify users and streaming platforms Analysis
+
       A dynamic, interactive data visualization tool build to explore spotify history data - This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
 
 🔍 Purpose:
-      Analyzed Spotify streaming data to uncover user listening behaviors, optimize playlist curation, and enhance artist promotion strategies through data-driven insights.Advanced DAX calculations and dynamic slicers enhanced data interactivity, enabling conditional formatting and dynamic quadrant visuals.
+
+      Analyzed Spotify streaming data to uncover user listening behaviors, optimize playlist curation, and enhance artist promotion strategies through data-driven insights.Advanced DAX calculations and dynamic slicers enhanced data interactivity, enabling condi ional formatting and dynamic quadrant visuals.
 
 📊 Key Contributions:
+
     •  Overview Dashboard: Visualized album, artist, and track performance, including year-over-year trends and top 5 performers, identifying a 20% annual growth opportunity.
     
     •  Listening Patterns Dashboard: Used heat maps and quadrant analysis to identify peak listening hours and highlight top-performing tracks, driving a 15% increase in user engagement.
@@ -29,8 +33,8 @@
     •	CSV Export Functionality
 
 Business Problem:
-    Designed to help Spotify’s music streaming division understand user listening behaviors across albums, artists, and tracks. The project aimed to solve the business problem of identifying patterns in user engagement, optimizing playlist strategies, and enhancing artist promotion through data-driven insights.
 
+    Designed to help Spotify’s music streaming division understand user listening behaviors across albums, artists, and tracks. The project aimed to solve the business problem of identifying patterns in user engagement, optimizing playlist strategies, and enhancing artist promotion through data-driven insights.
 
 Scope & Goals
 
@@ -40,7 +44,7 @@ Scope & Goals
    
    • Develop interactive dashboards to empower stakeholders with self-service analytics, enabling deeper insights into user engagement patterns, device usage, and platform-specific behaviour.
 
-Outcomes & Impact
+📈Outcomes & Impact
 
    1. Identified 20% YoY growth in album, artist, and track engagement trends.
    2. Optimized playlist strategies, driving 15% higher user engagement.
