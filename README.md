@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/ae784a08-ed2d-40ef-9086-0473ad0538c6)
+
+
 # Spotify-Dashboard
 
 🎧 Spotify Analytics: Spotify users and streaming platforms Analysis
