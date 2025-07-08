@@ -44,8 +44,19 @@ Scope & Goals
    • Analyze over 100,000 Spotify streaming records sourced from multiple data sources, including timestamps, platforms, user actions (e.g., shuffle, skip), and track metadata.
    
    • Integrate and model streaming data using Power BI, DAX, and custom date tables to support comprehensive trend analysis across albums, artists, and tracks.
-   
+
    • Develop interactive dashboards to empower stakeholders with self-service analytics, enabling deeper insights into user engagement patterns, device usage, and platform-specific behaviour.
+
+Walk through of key visuals :
+
+ALBUMS  
+
+ 🎵 Total Albums Played Over Time - Track how album listening trends change over months and years.
+ 📅 Number of Albums Listened by Year - Identify annual listening habits and volume.
+ 🏆 Top 5 Albums - Identify the most played albums baesd on listening frequency.
+ 📊 Latest Year vs Previous Year Analysis - Compare album consumption between the latest and previous year, including:
+     • LY (Latest Year) vs PY (Previous Year) Trends
+     • YOY (Year-Over-Year) Growth Analysis
 
 📈Outcomes & Impact
 
