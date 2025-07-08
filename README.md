@@ -52,10 +52,15 @@ Walk through of key visuals :
 ALBUMS  
 
  🎵 Total Albums Played Over Time - Track how album listening trends change over months and years.
+ 
  📅 Number of Albums Listened by Year - Identify annual listening habits and volume.
+ 
  🏆 Top 5 Albums - Identify the most played albums baesd on listening frequency.
+ 
  📊 Latest Year vs Previous Year Analysis - Compare album consumption between the latest and previous year, including:
+ 
      • LY (Latest Year) vs PY (Previous Year) Trends
+     
      • YOY (Year-Over-Year) Growth Analysis
 
 📈Outcomes & Impact
