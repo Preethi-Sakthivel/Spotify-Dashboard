@@ -1,11 +1,10 @@
+
+# Spotify Users and Streaming Platforms Analysis-Dashboard
+
+
 ![image](https://github.com/user-attachments/assets/ae784a08-ed2d-40ef-9086-0473ad0538c6)
 
 
-# Spotify-Dashboard
-
-🎧 Spotify Analytics: Spotify users and streaming platforms Analysis
-
-  A dynamic, interactive data visualization tool build to explore spotify history data - This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.
 
 🔍 Purpose:
 
@@ -23,17 +22,8 @@
     
     •  Integrated platform-specific filters (desktop, mobile, web, smart speaker) and skip/shuffle indicators, enabling music teams to tailor marketing and optimize cross-platform strategies.
     
-    •  Conducted robust data modeling, including calculated columns (e.g., day name, weekday/weekend flags) and date hierarchies, ensuring accurate time-based trend analysis.
+    •  Conducted robust data modeling, including calculated columns and date hierarchies, ensuring accurate time-based trend analysis.
 
-⚙️ Tools & Technologies:
-
-    •	Power BI (Data Modeling, DAX, Drill-Through, Heat Maps, Quadrant Analysis)
-    
-    •	Microsoft Excel (Data Cleaning and Preprocessing)
-    
-    •	Spotify Data Integration (timestamps, metadata, user actions)
-    
-    •	CSV Export Functionality
 
 Business Problem:
 
@@ -41,7 +31,7 @@ Business Problem:
 
 Scope & Goals
 
-   • Analyze over 100,000 Spotify streaming records sourced from multiple data sources, including timestamps, platforms, user actions (e.g., shuffle, skip), and track metadata.
+   • Analyze Spotify streaming records sourced from multiple data sources, including timestamps, platforms, user actions.
    
    • Integrate and model streaming data using Power BI, DAX, and custom date tables to support comprehensive trend analysis across albums, artists, and tracks.
 
@@ -63,7 +53,7 @@ ALBUMS
      
      • YOY (Year-Over-Year) Growth Analysis
 
-ALBUMS  
+ARTISTS  
 
  🎵 Total Artists Played Over Time - Track how artist listening trends evolve across months and years.
  
@@ -98,9 +88,13 @@ LISTENING PATTERNS
 📊 Average Listening Time (min) vs Track Frequency - Use a Scatter Plot with Quadrant Analysis to categorize track based on:
 
 • High Frequency & High Listening Time - Most engaging tracks
+
 • Low Frequency & High Listening Time - Niche but impactful tracks
+
 • High Frequency & Low Listening Time - Short & frequently played tracks
+
 • Low Frequency & Low Listening Time - Less Popular tracks
+
 
 DETAILS GRID
 
@@ -122,11 +116,26 @@ Key Requirements:
    
    1.The Grid should support hierarchical navigation, allowing users to drill down and up for in-depth data exploration.
 
-📈Outcomes & Impact
+📈Outcomes:
+     
+•	Identified 20% year-over-year growth in album, artist, and track engagement trends.
 
-   1. Identified 20% YoY growth in album, artist, and track engagement trends.
-   2. Optimized playlist strategies, driving 15% higher user engagement.
-   3. Supported data-driven decisions on release timing and marketing campaigns,enhancing artist visibility and platform revenue.
+•	Drove 15% increase in user engagement through data-driven playlist optimization.
+
+•	Empowered stakeholders to make data-driven decisions with exportable insights and interactive drill-downs.
+
+________________________________________
+
+⚙️ Tools & Technologies:
+
+    •	Power BI (Data Modeling, DAX, Drill-Through, Heat Maps, Quadrant Analysis)
+    
+    •	Microsoft Excel (Data Cleaning and Preprocessing)
+    
+    •	Spotify Data Integration (timestamps, metadata, user actions)
+    
+    •	CSV Export Functionality
+
 
 Demos:
 
